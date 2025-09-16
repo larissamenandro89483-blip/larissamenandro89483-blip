@@ -24,7 +24,7 @@ Meu nome é Larissa Menandro, sou estudante de programação, iniciei por lógic
   <br>
   
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:larissamenandro89483@gmail.com)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5517988143266?text=te%20encontrei%20pelo%20github)
 
 
 
