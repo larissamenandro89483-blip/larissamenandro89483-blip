@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Meu nome é Larissa Menandro, sou estudante de programação, iniciei por lógica de programação, versionamento e atualmente estou prosseguindo com os estudos.
+Meu nome é Larissa Menandro, sou estudante de programação, iniciei por lógica de programação, versionamento e atualmente estou empenhada com os estudos.
 
 <h2 
   <b>Tecnologias que estou aprendendo:</b></h2>
