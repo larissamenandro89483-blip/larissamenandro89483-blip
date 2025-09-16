@@ -6,6 +6,7 @@ Meu nome é Larissa Menandro, sou estudante de programação, iniciei por lógic
   <b>Tecnologias que estou aprendendo:</b></h2>
   
   <br>
+
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   
@@ -16,6 +17,21 @@ Meu nome é Larissa Menandro, sou estudante de programação, iniciei por lógic
 
 
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+<h2 
+  <b>Contato:</b></h2>
+  <br>
+  
+
+
+
+<h2 
+  <b>Status GitHub:</b></h2>
+  
+  <br>
+
+  
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaMenandro&show_icons=true&theme=radical)
 
