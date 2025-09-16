@@ -23,6 +23,8 @@ Meu nome é Larissa Menandro, sou estudante de programação, iniciei por lógic
   <b>Contato:</b></h2>
   <br>
   
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:larissamenandro89483@gmail.com)
+
 
 
 
